@@ -1,2 +1,2 @@
-# PURE
-Official PURE clothing brand website
+# PUREWEAR
+Official PUREWEAR clothing brand website
